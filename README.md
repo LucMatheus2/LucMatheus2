@@ -5,7 +5,7 @@ Hello I'm Lucas (or Luc) I'm a small 2D Gamedev who ocassionaly made a bunch of 
 - [My Bio (complete)](https://www.lucasmatheuscosta.dev.br/sobre.html)
 - [My Website](https://www.lucasmatheuscosta.dev.br/)
 
-## Personal Projects (possibly for eternity)
+## Personal Projects (hobbies)
 - [Estudio do Luk (Multimedia producer)](http://www.estudiodoluk.com.br/)
 - [NightLabs Info (My 2D Games)](https://nightlabsinfo.github.io/site/)
 
