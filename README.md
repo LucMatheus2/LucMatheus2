@@ -37,7 +37,7 @@ I'm **Lucas Matheus** but you can call me _Luc_, I'm a small brazilian dev who o
 * Linkedin:[@Lucas-Matheus-Costa](https://www.linkedin.com/in/lucas-matheus-costa/?locale=en_US)
 * Whatsapp:[@LucMatheus2](https://api.whatsapp.com/send?phone=5593984398720)
 * Email: [contato@lucasmatheuscosta.dev.br](mailto:contato@lucasmatheuscosta.dev.br)
-* Website/Blog (NOT PROFESSIONAL): [http://www.lucasmatheuscosta.com.br/](http://www.lucasmatheuscosta.com.br/)
+* Website/Blog (NOT PROFESSIONAL): [http://www.lucasmatheuscosta.dev.br/](http://www.lucasmatheuscosta.dev.br/)
 
 ## ![StarBestWorks](img/smol_lucs/Luc_Star_BestWorks.gif) Main page projects
 _They are below of this section_
