@@ -1,5 +1,5 @@
 ![Logo](img/Logo.png)   
-# Good timezone everyone!!! 
+# Hello everyone!!! 
 I'm **Lucas Matheus** but you can call me _Luc_, I'm a small brazilian dev who ocassionaly some small projects here, thanks for coming and stay well.  
 
 ## ![SmolLucBio](img/smol_lucs/Luc_bio.gif) General Bio
@@ -7,8 +7,8 @@ I'm **Lucas Matheus** but you can call me _Luc_, I'm a small brazilian dev who o
 * Nickname: Luc/Luk;
 * Scholarship: Graduated in Analysis and Development Systems (2021) with Game development emphasis (2022);
 * Age: 24 years old;
-* Ocupation: IT Technical support;
-* Hobbys: Drawing, Listen Music, Study random things and Streaming (Watch/Create).
+* Ocupation: IT Freelancer;
+* Hobbys: Drawing, Listen Music, Study random things and sometimes gaming.
 
 ## ![SmolLucProgramacao](img/smol_lucs/Luc_Programacao.gif) Skills (programming)
 * PHP;
