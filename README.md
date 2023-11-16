@@ -6,7 +6,7 @@ I'm **Lucas Matheus** but you can call me _Luc_, I'm a small brazilian dev who o
 * Name: Lucas Matheus Costa;
 * Nickname: Luc/Luk;
 * Scholarship: Graduated in Analysis and Development Systems (2021) with Game development emphasis (2022);
-* Age: 24 years old;
+* Birb day: September 14th, 1998 (Virgo);
 * Ocupation: IT Freelancer;
 * Hobbys: Drawing, Listen Music, Study random things and sometimes gaming.
 
