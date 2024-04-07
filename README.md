@@ -1,2 +1,3 @@
-**Working in progress** 
-Trabalho em progresso
+![Logo](img/Logo.png)  
+
+Lorem ipsum lamen 
