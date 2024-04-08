@@ -7,5 +7,3 @@
 # Idiomas / Languages
 Fluente/Ok: ![pt_BR](img/idiomas/bra.png), ![en](img/idiomas/usa.png)  
 Aprendendo/Learning: ![zh_CN](img/idiomas/chn.png), ![jp_JP](img/idiomas/jpn.png), ![es_AR](img/idiomas/arg.png)  
-
-# Carrousel projects / Vitrine
