@@ -1,0 +1,26 @@
+/* Fontes externas */
+@font-face 
+{
+    font-family: "Determination Sans";
+    src: url("../font/DTM-Sans.otf");
+
+    font-family: "Pixel Plus";
+    src: url("../font/PixelMplus10-Bold.ttf");
+}
+
+body 
+{
+    margin: 0 20%;
+}
+
+h1,h2 
+{
+    font-family: "Pixel Plus",sans-serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+p {
+    font-family: "Determination Sans",sans-serif;
+    font-weight: lighter;
+}
