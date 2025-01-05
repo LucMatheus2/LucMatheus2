@@ -11,16 +11,20 @@
 body 
 {
     margin: 0 20%;
+    font-family: sans-serif;
+    background-color: #eee;
 }
-
-h1,h2 
+footer {
+    padding: 1% 2%;
+    background-color: #000;
+    color: #FFF;    
+}
+footer .links_rodape a
 {
-    font-family: "Pixel Plus",sans-serif;
-    text-transform: uppercase;
-    font-weight: lighter;
+    color: orangered;
 }
-
-p {
-    font-family: "Determination Sans",sans-serif;
-    font-weight: lighter;
+footer .links_rodape ul li
+{
+    padding: 0 1%;
+    display: inline-block;
 }
