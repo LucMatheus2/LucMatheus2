@@ -5,7 +5,7 @@ Atualmente construindo o *Sorrows* e a minha carreira.
 ## Site
   _Site temporário em breve_
 ## Mídias sociais
-![](docs/src/media/img/redes/Github.png) ![https://www.linkedin.com/in/lucas-matheus-costa/](docs/src/media/img/redes/linkedin.png) ![https://bsky.app/profile/lucmatheus2.bsky.social](docs/src/media/img/redes/Bluesky.png) ![https://www.instagram.com/lucmatheus2/](docs/src/media/img/redes/Insta.png) ![https://youtube.com/@lucmatheus2](docs/src/media/img/redes/Youtube.png)
+![#](docs/src/media/img/redes/Github.png) ![https://www.linkedin.com/in/lucas-matheus-costa/](docs/src/media/img/redes/linkedin.png) ![https://bsky.app/profile/lucmatheus2.bsky.social](docs/src/media/img/redes/Bluesky.png) ![https://www.instagram.com/lucmatheus2/](docs/src/media/img/redes/Insta.png) ![https://youtube.com/@lucmatheus2](docs/src/media/img/redes/Youtube.png)
 ## Linguagens de programação & Game Engines
 * PHP
 * Java
