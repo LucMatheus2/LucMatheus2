@@ -7,12 +7,13 @@
     font-family: "Pixel Plus";
     src: url("../font/PixelMplus10-Bold.ttf");
 }
-
 body 
 {
     margin: 0 20%;
     font-family: monospace;
     background-color: #eee;
+
+    cursor: url("../media/img/wiicursor.png"), auto;
 }
 header,section,footer 
 {
@@ -29,48 +30,12 @@ footer .links_rodape a
 {
     color: orangered;
 }
+footer .links_rodape a:hover
+{
+    color: yellow;
+}
 footer .links_rodape ul li
 {
     padding: 0 1%;
     display: inline-block;
-}
-#menu_index nav 
-{
-    font-family: sans-serif;
-}
-#menu_index nav ul li
-{
-    list-style: none;
-    margin: 5% 0;
-    text-align: left;
-}
-#menu_index nav ul li a
-{
-    padding: 2%;
-    text-decoration: none;
-    border: 2px solid rgb(47, 107, 185);
-    border-radius: 10%;
-    background-color: #FFF;
-    color: #000;
-}
-#menu_index nav ul li a:hover
-{
-    transition: all 0.5s;
-    color: rgb(47, 107, 185);
-    margin-left: 1%;
-}
-#avatar
-{
-    float: left;
-    padding: 1%;
-    max-width: 350px;
-}
-#avatar img
-{
-    max-width: 100%;
-}
-#portfolio
-{
-    clear: both;
-    text-align: center;
 }
