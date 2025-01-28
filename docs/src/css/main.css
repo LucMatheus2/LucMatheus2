@@ -7,12 +7,19 @@
     font-family: "Pixel Plus";
     src: url("../font/PixelMplus10-Bold.ttf");
 }
-
 body 
 {
     margin: 0 20%;
-    font-family: sans-serif;
-    background-color: #eee;
+    font-family: monospace;
+    background-color: #42071b;
+
+    cursor: url("../media/img/wiicursor.png"), auto;
+}
+header,section,footer 
+{
+    padding: 1%;
+    background-color: #FFF;
+    border: 1px solid #000;
 }
 footer {
     padding: 1% 2%;
@@ -22,6 +29,10 @@ footer {
 footer .links_rodape a
 {
     color: orangered;
+}
+footer .links_rodape a:hover
+{
+    color: yellow;
 }
 footer .links_rodape ul li
 {
